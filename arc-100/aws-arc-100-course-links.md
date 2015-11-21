@@ -88,12 +88,12 @@ lab - Web Identity Federation Example - https://web-identity-federation-playgrou
 
 ##### [slide] Classless Inter-Domain Routing (CIDR) *
 
-image - CIDR masking - !!!S3 REFERENCE!!! (arc-100-cidrMasking.png)
+image - CIDR masking - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-cidrMasking.png
 
 
 ##### [slide] Subnet Segmentation
 
-image - Subnet Segmentation - !!!S3 REFERENCE!!! (arc-100-subnetSegmentation.png)
+image - Subnet Segmentation - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-subnetSegmentation.png
 
 
 ##### [slide] VPC Network ACLs Best Practices
@@ -288,30 +288,30 @@ doc - IAM Security Policy: Principal - http://docs.aws.amazon.com/IAM/latest/Use
 
 ##### [slide] Monitor AWS Resources with Amazon CloudWatch
 
-image - Custom Metric Configuration: Define Metric - !!!S3 REFERENCE!!!  (arc-100-customMetrics-defineMetric.png)
+image - Custom Metric Configuration: Define Metric - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-customMetrics-defineMetric.png
 
-image - Custom Metric Configuration: Define Flows - !!!S3 REFERENCE!!!  (arc-100-customMetrics-defineFlows.png)
+image - Custom Metric Configuration: Define Flows - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-customMetrics-defineFlows.png
 
-image - Custom Metric Configuration: Console Output - !!!S3 REFERENCE!!!  (arc-100-customMetrics-consoleOutput.png)
+image - Custom Metric Configuration: Console Output - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-customMetrics-consoleOutput.png
 
 
 ##### [slide] Store and Monitor Application Log Files with CloudWatch
 
-image - CloudWatch Logs Configuration: Agent Configuration - !!!S3 REFERENCE!!!  (arc-100-cloudwatchLogs-agentConfiguration.png)
+image - CloudWatch Logs Configuration: Agent Configuration - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-cloudwatchLogs-agentConfiguration.png
 
-image - CloudWatch Logs Configuration: Agent Installation - !!!S3 REFERENCE!!!  (arc-100-cloudwatchLogs-agentInstallation.png)
+image - CloudWatch Logs Configuration: Agent Installation - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-cloudwatchLogs-agentInstallation.png
 
-image - CloudWatch Logs Configuration: Console Output - !!!S3 REFERENCE!!!  (arc-100-cloudwatchLogs-consoleOutput.png)
+image - CloudWatch Logs Configuration: Console Output - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-cloudwatchLogs-consoleOutput.png
 
 
 ##### [slide] Cloud Design Pattern: Monitoring Integration Pattern
 
-image - 3rd Party Monitoring: Marketplace - !!!S3 REFERENCE!!!  (arc-100-marketplaceMonitoring.png)
+image - 3rd Party Monitoring: Marketplace - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-marketplaceMonitoring.png
 
 
 ##### [slide] Understanding Elasticity *
 
-image - Understanding Elasticity - !!!S3 REFERENCE!!!  (arc-100-understandingElasticity.png)
+image - Understanding Elasticity - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-understandingElasticity.png
 
 whitepaper - AWS Cloud Best Practices - http://media.amazonwebservices.com/AWS_Cloud_Best_Practices.pdf
 
@@ -374,7 +374,7 @@ image – map reduce diagram - https://s3-ap-southeast-2.amazonaws.com/awsedu-as
 
 ##### [slide] Build in Business Intelligence with Amazon Redshift
 
-image - BI Tool integration with RedShift - !!!S3 REFERENCE!!!  (arc-100-redshiftBiIntegration.png)
+image - BI Tool integration with RedShift - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-redshiftBiIntegration.png
 
 
 ##### [slide] Example Application: Twitter-trends.com Website
@@ -412,7 +412,7 @@ image - Fault Tolerance Example - https://s3-ap-southeast-2.amazonaws.com/awsedu
 
 ##### [slide] Spot Use Cases
 
-image - Spot is Rewarding - !!!S3 REFERENCE!!!  (arc-100-spotRewards.png)
+image - Spot is Rewarding - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-spotRewards.png
 
 
 
