@@ -183,14 +183,10 @@ doc - EBS Product Details - http://aws.amazon.com/ebs/details/
 
 image - EBS Credit Drain - http://assets.awsedu.com/services/ec2/EBS-CreditDrain.png
 
-source - https://na32.salesforce.com/06950000001alHV
-
 
 ##### [slide] IOPS and I/O Credits detailed example *
 
 image - GP2 IOPS and I/O credits - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-T2RIgraphic.png
-
-source - salesforce - AWS - an introduction to bursting (GP2 - T2) - https://na32.salesforce.com/sfc/#version/06950000001BsiZ
 
 
 ##### [slide] Large Pool Block Storage
@@ -384,7 +380,7 @@ video - Twitter Trends Kinesis Example -  https://youtu.be/AXAaCG2QUkE?t=2m29s
 
 ##### [slide] Solution: Stream Processing with Amazon Kinesis
 
-site - Kinesis/Twitter example: CSIRO - http://wefeel.csiro.au/#/
+ref - Kinesis/Twitter example: CSIRO - http://wefeel.csiro.au/#/
 
 
 ##### [slide] Use Case: Twitter-trends.com Website
