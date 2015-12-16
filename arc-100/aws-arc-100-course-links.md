@@ -3,8 +3,8 @@
 [course revision] 4.5
 
 [file] aws-arc-100-course-links.md
-[file version] 001.001
-[file date] 151121
+[file version] 001.002
+[file date] 151218
 
 [maintainer] rdepater@amazon.com
 ```
@@ -232,7 +232,9 @@ whitepaper - KMS - https://d0.awsstatic.com/whitepapers/KMS-Cryptographic-Detail
 
 ## Module 05 - Distributed Environments
 
-No additional references
+##### [slide] Use Case: Multi-Region Failover
+
+video - Route53 adv config - https://www.youtube.com/watch?v=XXUYbdbCb6Q
 
 
 
@@ -380,7 +382,7 @@ video - Twitter Trends Kinesis Example -  https://youtu.be/AXAaCG2QUkE?t=2m29s
 
 ##### [slide] Solution: Stream Processing with Amazon Kinesis
 
-ref - Kinesis/Twitter example: CSIRO - http://wefeel.csiro.au/#/
+site - Kinesis/Twitter example: CSIRO - http://wefeel.csiro.au/#/
 
 
 ##### [slide] Use Case: Twitter-trends.com Website
