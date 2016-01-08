@@ -1,10 +1,10 @@
 ```
 [course] Architecting on AWS
-[course revision] 4.5
+[course revision] 4.6
 
 [file] aws-arc-100-course-links.md
-[file version] 001.002
-[file date] 151218
+[file version] 001.003
+[file date] 160108
 
 [maintainer] rdepater@amazon.com
 ```
@@ -93,7 +93,7 @@ image - CIDR masking - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/cou
 
 ##### [slide] Subnet Segmentation
 
-image - Subnet Segmentation - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-subnetSegmentation.png
+image - Subnet Segmentation - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-subnetsegmentation.gif
 
 
 ##### [slide] VPC Network ACLs Best Practices
