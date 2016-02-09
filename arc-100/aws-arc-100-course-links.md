@@ -3,8 +3,8 @@
 [course revision] 4.6
 
 [file] aws-arc-100-course-links.md
-[file version] 001.003
-[file date] 160108
+[file version] 001.004
+[file date] 160209
 
 [maintainer] rdepater@amazon.com
 ```
@@ -113,6 +113,11 @@ image - Multi VPC drivers - https://s3-ap-southeast-2.amazonaws.com/awsedu-asset
 
 
 ## Module 03 - Computing in the cloud
+
+##### [slide] Computing in the AWS Cloud: Amazon Elastic Compute Cloud
+
+video – Adrian Cockcroft: Netflix is 100 000 cores - https://youtu.be/FbuqMFOSVuw?t=7m25s
+
 
 ##### [slide] Where Does the Operating System Come From?
 
