@@ -24,7 +24,7 @@
 				- [[slide] AWS Directory Service (2 of 2)](#slide-aws-directory-service-2-of-2)
 				- [[slide] Use Case: Web Identity Federation](#slide-use-case-web-identity-federation)
 	- [Module 02 - Extending On Premises Architecture](#module-02-extending-on-premises-architecture)
-				- [[slide] Classless Inter-Domain Routing (CIDR) *](#slide-classless-inter-domain-routing-cidr-)
+				- [[slide] Classless Inter-Domain Routing (CIDR)](#slide-classless-inter-domain-routing-cidr)
 				- [[slide] Subnet Segmentation](#slide-subnet-segmentation)
 				- [[slide] VPC Network ACLs Best Practices](#slide-vpc-network-acls-best-practices)
 				- [[slide] Private Network Connection to AWS Cloud](#slide-private-network-connection-to-aws-cloud)
@@ -32,9 +32,9 @@
 	- [Module 03 - Computing in the cloud](#module-03-computing-in-the-cloud)
 				- [[slide] Computing in the AWS Cloud: Amazon Elastic Compute Cloud](#slide-computing-in-the-aws-cloud-amazon-elastic-compute-cloud)
 				- [[slide] Where Does the Operating System Come From?](#slide-where-does-the-operating-system-come-from)
-				- [[slide] Amazon EC2 Instance Type Naming *](#slide-amazon-ec2-instance-type-naming-)
+				- [[slide] Amazon EC2 Instance Type Naming](#slide-amazon-ec2-instance-type-naming)
 				- [[slide] T2 Instance Type](#slide-t2-instance-type)
-				- [[slide] Use Case - HA Proxy Under Load *](#slide-use-case-ha-proxy-under-load-)
+				- [[slide] Use Case - HA Proxy Under Load](#slide-use-case-ha-proxy-under-load)
 				- [[slide] Ephemeral Storage](#slide-ephemeral-storage)
 				- [[slide] Instrumenting Amazon EC2 Key Pairs](#slide-instrumenting-amazon-ec2-key-pairs)
 				- [[slide] What You Can and Cannot Do with ENI?](#slide-what-you-can-and-cannot-do-with-eni)
@@ -45,7 +45,7 @@
 				- [[slide] When to Use Amazon S3 vs. EBS?](#slide-when-to-use-amazon-s3-vs-ebs)
 				- [[slide] Amazon EBS Types](#slide-amazon-ebs-types)
 				- [[slide] Costs Associated with Amazon EBS (1 of 2)](#slide-costs-associated-with-amazon-ebs-1-of-2)
-				- [[slide] IOPS and I/O Credits detailed example *](#slide-iops-and-io-credits-detailed-example-)
+				- [[slide] IOPS and I/O Credits detailed example](#slide-iops-and-io-credits-detailed-example)
 				- [[slide] Large Pool Block Storage](#slide-large-pool-block-storage)
 				- [[slide] Amazon EBS Security](#slide-amazon-ebs-security)
 				- [[slide] Benefits of Amazon S3](#slide-benefits-of-amazon-s3)
@@ -68,7 +68,7 @@
 				- [[slide] Monitor AWS Resources with Amazon CloudWatch](#slide-monitor-aws-resources-with-amazon-cloudwatch)
 				- [[slide] Store and Monitor Application Log Files with CloudWatch](#slide-store-and-monitor-application-log-files-with-cloudwatch)
 				- [[slide] Cloud Design Pattern: Monitoring Integration Pattern](#slide-cloud-design-pattern-monitoring-integration-pattern)
-				- [[slide] Understanding Elasticity *](#slide-understanding-elasticity-)
+				- [[slide] Understanding Elasticity](#slide-understanding-elasticity)
 				- [[slide] Compare Auto Scaling, Do-It-Yourself, and Hybrid](#slide-compare-auto-scaling-do-it-yourself-and-hybrid)
 				- [[slide] Scaling Amazon RDS with Database Sharding](#slide-scaling-amazon-rds-with-database-sharding)
 				- [[slide] Auto Scaling with Dynamic DynamoDB](#slide-auto-scaling-with-dynamic-dynamodb)
@@ -174,7 +174,7 @@ lab - Web Identity Federation Example - https://web-identity-federation-playgrou
 
 ## Module 02 - Extending On Premises Architecture
 
-##### [slide] Classless Inter-Domain Routing (CIDR) *
+##### [slide] Classless Inter-Domain Routing (CIDR)
 
 image - CIDR masking - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-cidrMasking.png
 
@@ -212,7 +212,7 @@ video – Adrian Cockcroft: Netflix is 100 000 cores - https://youtu.be/FbuqMFOS
 ref - CloudEndure - https://aws.amazon.com/marketplace/search/results/ref=gtw_navgno_search_box?page=1&searchTerms=cloudendure
 
 
-##### [slide] Amazon EC2 Instance Type Naming *
+##### [slide] Amazon EC2 Instance Type Naming
 
 image - Instance Naming Convention -  https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-instance-naming.png
 
@@ -222,7 +222,7 @@ image - Instance Naming Convention -  https://s3-ap-southeast-2.amazonaws.com/aw
 doc - credit earn/burn rate  - http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html
 
 
-##### [slide] Use Case - HA Proxy Under Load *
+##### [slide] Use Case - HA Proxy Under Load
 
 blog - HAProxy and a t2.micro under load -  http://hipsterdevblog.com/blog/2014/12/19/how-far-can-you-go-with-haproxy-and-a-t2-dot-micro/
 
@@ -277,7 +277,7 @@ doc - EBS Product Details - http://aws.amazon.com/ebs/details/
 image - EBS Credit Drain - http://assets.awsedu.com/services/ec2/EBS-CreditDrain.png
 
 
-##### [slide] IOPS and I/O Credits detailed example *
+##### [slide] IOPS and I/O Credits detailed example
 
 image - GP2 IOPS and I/O credits - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-T2RIgraphic.png
 
@@ -405,7 +405,7 @@ image - CloudWatch Logs Configuration: Console Output - https://s3-ap-southeast-
 image - 3rd Party Monitoring: Marketplace - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-marketplaceMonitoring.png
 
 
-##### [slide] Understanding Elasticity *
+##### [slide] Understanding Elasticity
 
 image - Understanding Elasticity - https://s3-ap-southeast-2.amazonaws.com/awsedu-assets/courses/ARC-100/arc-100-understandingElasticity.png
 
