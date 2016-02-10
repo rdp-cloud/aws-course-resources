@@ -3,8 +3,8 @@
 [course revision] 4.6
 
 [file] aws-arc-100-course-links.md
-[file version] 001.004
-[file date] 160209
+[file version] 001.005
+[file date] 160211
 
 [maintainer] rdepater@amazon.com
 ```
@@ -248,6 +248,11 @@ video - Route53 adv config - https://www.youtube.com/watch?v=XXUYbdbCb6Q
 ##### [slide] Increasing Performance with Database Caching
 
 whitepaper - Elasticache - https://d0.awsstatic.com/whitepapers/performance-at-scale-with-amazon-elasticache.pdf
+
+
+##### [slide] How Can Amazon ElastiCache Help?
+
+image - Memcachd vs Redis Architecture - http://static1.squarespace.com/static/52ed9a01e4b01528abba472e/t/53321a7de4b054ff7c3311e8/1395833907659/?format=1500w
 
 
 ##### [slide] Using Oracle GoldenGate with Amazon RDS
